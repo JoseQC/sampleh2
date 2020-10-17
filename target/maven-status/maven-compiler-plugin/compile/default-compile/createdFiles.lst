@@ -1,0 +1,5 @@
+com\everis\treining\everis\entity\Student.class
+com\everis\treining\everis\service\StudentService.class
+com\everis\treining\everis\SampleDockerH2TwoApplication.class
+com\everis\treining\everis\controller\StudentController.class
+com\everis\treining\everis\repository\StudentRepository.class
